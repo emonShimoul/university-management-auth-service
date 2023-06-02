@@ -1,3 +1,4 @@
 node_modules
 .env
+logs
 # Create the .gitignore file and add there node_modules folder and .env file
