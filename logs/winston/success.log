@@ -4,3 +4,31 @@
 {"level":"info","message":"Application listening on port 5000"}
 {"level":"info","message":"Database is connected successfully"}
 {"level":"info","message":"Application listening on port 5000"}
+{"level":"info","message":"Database is connected successfully"}
+{"level":"info","message":"Application listening on port 5000"}
+2023-06-02T14:37:37.166Z [right meow!] info: Database is connected successfully
+2023-06-02T14:37:37.170Z [right meow!] info: Application listening on port 5000
+[right meow!] info: Database is connected successfully 2023-06-02T14:38:24.889Z
+[right meow!] info: Application listening on port 5000 2023-06-02T14:38:24.893Z
+2023-06-02T14:38:34.103Z [right meow!] info: Database is connected successfully
+2023-06-02T14:38:34.107Z [right meow!] info: Application listening on port 5000
+2023-06-02T14:39:17.725Z [right meow!] info: Database is connected successfully
+2023-06-02T14:39:17.730Z [right meow!] info: Application listening on port 5000
+2023-06-02T14:40:00.353Z [PH] info: Database is connected successfully
+2023-06-02T14:40:00.357Z [PH] info: Application listening on port 5000
+Fri Jun 02 2023 20 43 19 [PH] info: Database is connected successfully
+Fri Jun 02 2023 20 43 19 [PH] info: Application listening on port 5000
+Fri Jun 02 2023 20 43 48 [ES] info: Database is connected successfully
+Fri Jun 02 2023 20 43 48 [ES] info: Application listening on port 5000
+{
+  message: 'Database is connected successfully',
+  level: 'info',
+  label: 'ES',
+  timestamp: '2023-06-02T14:44:30.607Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'ES',
+  timestamp: '2023-06-02T14:44:30.613Z'
+}
